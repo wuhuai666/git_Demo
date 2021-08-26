@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("你的不太行");
         System.out.println("你觉得你又行了?");
         System.out.println("push test");
+           System.out.println("pull test");
     }
 }
