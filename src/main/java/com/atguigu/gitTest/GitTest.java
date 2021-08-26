@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("你觉得你又行了?");
         System.out.println("push test");
            System.out.println("pull test");
+        System.out.println("github项目更新了");
     }
 }
